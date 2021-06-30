@@ -9,3 +9,6 @@
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rogeralsing&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rogeralsing&theme=dark)](https://git.io/streak-stats)
