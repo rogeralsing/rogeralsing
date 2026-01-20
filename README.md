@@ -6,13 +6,19 @@ https://www.linkedin.com/in/roger-johansson-4a4bb61/recent-activity/all/
 
 ## AI first tools for developers 🤖
 
+### Asynkron.Profiler
+
 CLI-based profiler for .NET applications
 Developed to allow agents to optimize Asynkron's products and services.
 https://github.com/asynkron/Asynkron.Profiler
 
+### Asynkron.QuickDup
+
 CLI-based duplicate code finder - any language
 Developed to allow agents to reduce code duplication in Asynkron's products and services.
 https://github.com/asynkron/Asynkron.QuickDup
+
+### Asynkron.TestRunner
 
 CLI-based test runner for .NET applications, isolated workers, handles out of memory, crashes, freezes etc.
 Developed to handle the Asynkron.JsEngine test suite, 93 000+ ECMAScript tests.
@@ -21,9 +27,16 @@ https://github.com/asynkron/Asynkron.TestRunner
 
 ## Framework for building distributed systems 🛜
 
+### Proto.Actor
+
 https://github.com/asynkron/protoactor-dotnet
 
 https://github.com/asynkron/protoactor-go
+
+### Asynkron.DurableFunctions - DurableAgents
+
+Developed to allow building distributed systems using the Azure Durable Functions platform anywhere - on-prem, other clouds etc.
+Enhanced with distributed agent capabilities.
 
 https://github.com/asynkron/Asynkron.DurableFunctions.Public
 
