@@ -16,12 +16,14 @@ https://asynkron.com
 
 CLI-based profiler for .NET applications
 Developed to allow agents to optimize Asynkron's products and services.
+
 https://github.com/asynkron/Asynkron.Profiler
 
 ### Asynkron.QuickDup
 
 CLI-based duplicate code finder - any language
 Developed to allow agents to reduce code duplication in Asynkron's products and services.
+
 https://github.com/asynkron/Asynkron.QuickDup
 
 ### Asynkron.TestRunner
