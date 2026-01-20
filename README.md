@@ -1,8 +1,14 @@
 # Asynkron's Links
 
+https://asynkron.com
+
 ## Personal Links 🧑‍🔬
 
-https://www.linkedin.com/in/roger-johansson-4a4bb61/recent-activity/all/
+### Roger Johansson - Founder & CTO at Asynkron
+
+- LinkedIn: https://www.linkedin.com/in/roger-johansson-4a4bb61/recent-activity/all/
+- Twitter: https://twitter.com/rogeralsing
+- GitHub: https://github.com/rogeralsing
 
 ## AI first tools for developers 🤖
 
