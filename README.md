@@ -50,6 +50,8 @@ https://github.com/asynkron/Asynkron.DurableFunctions.Public
 
 ## Passion projects ❤️
 
+### Asynkron.JsEngine
+
 Developed to explore the boundaries of pure AI-generated code.
 ECMAScript compliant JavaScript engine for .NET
 
