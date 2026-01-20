@@ -29,6 +29,8 @@ https://github.com/asynkron/Asynkron.TestRunner
 
 ### Proto.Actor
 
+Ultra-fast, cross-platform, distributed actor framework for building concurrent and fault-tolerant applications.
+
 https://github.com/asynkron/protoactor-dotnet
 
 https://github.com/asynkron/protoactor-go
