@@ -1,10 +1,3 @@
-
-[![GitHub rogeralsing](https://img.shields.io/github/followers/rogeralsing?label=follow&style=social)](https://github.com/rogeralsing)
-
-![repo stats](https://github-readme-stats.vercel.app/api?username=rogeralsing&theme=dark&show_icons=true&line_height=27)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rogeralsing&theme=dark)](https://git.io/streak-stats)
-
 # Asynkron's Links
 
 ## Personal Links 🧑‍🔬
@@ -44,3 +37,9 @@ ECMAScript compliant JavaScript engine for .NET
 
 https://github.com/asynkron/Asynkron.JsEngine
 
+
+## Github stats
+
+[![GitHub rogeralsing](https://img.shields.io/github/followers/rogeralsing?label=follow&style=social)](https://github.com/rogeralsing)
+
+![repo stats](https://github-readme-stats.vercel.app/api?username=rogeralsing&theme=dark&show_icons=true&line_height=27)
